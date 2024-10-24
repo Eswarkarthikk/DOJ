@@ -11,5 +11,8 @@
       "src": "/(.*)",
       "dest": "chatbot/wsgi.py"
     }
-  ]
+  ],
+  "env": {
+    "DJANGO_SETTINGS_MODULE": "chatbot.settings"
+  }
 }
