@@ -1,0 +1,4 @@
+Django==4.2.4
+gradio-client
+gradio==3.8.2
+django-bootstrap4==22.3
